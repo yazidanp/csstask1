@@ -16,7 +16,7 @@
 -----------------------------------------------------------------
 ![Screenshot (72)](https://user-images.githubusercontent.com/83215596/116970242-3dd03980-acd5-11eb-8eb7-41b80f23c515.png)
 
-|BugBusters|Name|Repo Address|  
+|BugBusters|Name|Website link|  
 |----------|----|------------|
 |1|Shahla k|-|
 |2|Akshay M|-|
@@ -24,7 +24,7 @@
 |4|Ashitha N|-|
 |5|Nihad C V|-|
 
-|Server Monks|Name|Repo Address|  
+|Server Monks|Name|Website link|  
 |------------|----|------------|
 |1|Adnan|-|
 |2|Anuroopa|-|
@@ -33,7 +33,7 @@
 |5|Dana|-|
 |6|Sreeram|-|
 
-|Data Pirates|Name|Repo Address|  
+|Data Pirates|Name|Website link|  
 |------------|----|------------|
 |1|Najiya|-|
 |2|Hafis|-|
@@ -41,7 +41,7 @@
 |4|Swathy|-|
 |5|Yazid|-|
 
-|Webzone|Name|Repo Address|  
+|Webzone|Name|Website link|  
 |-------|----|------------|
 |1|Anupriya|-|
 |2|Aleena Reji|-|
@@ -50,7 +50,7 @@
 |5|Yadunath|-|
 |6|Adnan|-|
 
-|Query Crew|Name|Repo Address|  
+|Query Crew|Name|Website link|  
 |----------|----|------------|
 |1|Hadiq|-|
 |2|Kiran|-|
@@ -59,7 +59,7 @@
 |5|Greeshma|-|
 |6|Adithya|-|
 
-|Net Weavers|Name|Repo Address|  
+|Net Weavers|Name|Website link|  
 |-----------|----|------------|
 |1|Nandu krishna|-|
 |2|Arjun|-|
