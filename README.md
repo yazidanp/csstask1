@@ -53,7 +53,7 @@
 |Query Crew|Name|Website link|  
 |----------|----|------------|
 |1|Hadiq|-|
-|2|Kiran|-|
+|2|Kiran|https://kirankrish792.github.io/tr/|
 |3|Pravitha|-|
 |4|Adil|-|
 |5|Greeshma|-|
