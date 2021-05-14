@@ -54,7 +54,7 @@
 |----------|----|------------|
 |1|Hadiq|-|
 |2|Kiran|https://kirankrish792.github.io/tr/|
-|3|Pravitha|-|
+|3|Pravitha|https://pravitha007.github.io/TASK_01_CSS/|
 |4|Adil|-|
 |5|Greeshma|-|
 |6|Adithya|-|
