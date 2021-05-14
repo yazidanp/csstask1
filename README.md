@@ -27,7 +27,7 @@
 |Server Monks|Name|Website link|  
 |------------|----|------------|
 |1|Adnan|-|
-|2|Anuroopa|-|
+|2|Anuroopa|https://anuroopaaa.github.io/css-task-01/|
 |3|Akmal|-|
 |4|Hiba|-|
 |5|Dana|-|
