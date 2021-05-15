@@ -35,7 +35,7 @@
 
 |Data Pirates|Name|Website link|  
 |------------|----|------------|
-|1|Najiya|-|
+|1|Najiya|https://fathimanajiya.github.io/TASK01CSS/|
 |2|Hafis|https://hafiscp.github.io/TASK-01-CSS/|
 |3|Prathul|-|
 |4|Swathy|-|
