@@ -48,7 +48,7 @@
 |3|Avanthika|https://avanthika2811.github.io/TASK-CSS-01/|
 |4|Atif|-|
 |5|Yadunath|-|
-|6|Adnan|-|
+|6|Adnan|https://adnanzabdi.github.io/TASK-01-CSS|
 
 |Query Crew|Name|Website link|  
 |----------|----|------------|
