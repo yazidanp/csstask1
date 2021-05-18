@@ -28,7 +28,7 @@
 |------------|----|------------|
 |1|Adnan|https://adnane777.github.io/csstask1/|
 |2|Anuroopa|https://anuroopaaa.github.io/css-task-01/|
-|3|Akmal|-|
+|3|Akmal|https://github.com/Akmal-github/css-task1|
 |4|Hiba|-|
 |5|Dana|-|
 |6|Sreeram|-|
