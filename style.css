@@ -1,0 +1,109 @@
+body{
+    font-family:Montserrat;
+    font-size: 14px;
+    font-weight: 800;
+    margin: 0px;
+    background-color: aqua;
+}
+
+.head-one {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin: 0;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+}
+
+.head-two {
+    float: right;
+}
+
+.middle-div{
+    background-color: aqua;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.div-one{
+    float: left;
+    height: 600px;
+    margin-top: 30px;
+    margin-right: 60px;
+}
+
+.div-two{
+    float: left;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: -11px;
+    width: 300px;
+    height: 530px;
+    padding-left: 40px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-left:5px solid yellow;
+    border-right: 5px solid yellow;
+    margin-top: 20px;
+}
+
+.div-three{
+    float: left;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: -11px;
+    width: 300px;
+    height: 530px;
+    padding-left: 40px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-left:5px solid yellow;
+    border-right: 5px solid yellow;
+    margin-top: 20px;
+}
+.div-four{
+    float: left;
+    height: 600px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.footer{
+    height: 75px;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}   
+
+p{
+    color: brown    ;
+}
+
+.p1{
+    margin-left: 0px;
+    color: red;
+}
+
+.vertical-one {
+    float: left;
+    margin-top: 30px;
+    margin-right: 30px;
+    border-left: 5px solid yellow;
+    height: 500px;
+}
+
+.footer-dia {
+    color: rgb(231, 5, 5);
+    text-align: center;
+    padding-top: 15px;    
+}
+
+.list{
+    color: blue;
+    margin-left: 1px;
+}
